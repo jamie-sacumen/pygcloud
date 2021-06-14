@@ -1,0 +1,1 @@
+Library for connecting with AWS services like SQS, S3, etc.
